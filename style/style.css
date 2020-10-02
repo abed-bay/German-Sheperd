@@ -1,0 +1,28 @@
+body {
+	background-size: cover;
+}
+h2 {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Arial;
+	text-shadow: 3px 3px black;
+}
+p {
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Arial;
+	text-shadow: 2px 2px black;
+
+}
+ul {
+	text-align: left;
+	color: #FFFFFF;
+	font-family: Arial;
+	text-shadow: 3px 3px black;
+}
+h4 {
+	text-align: left;
+	color: #FFFFFF;
+	font-family: Arial;
+	text-shadow: 3px 3px black;
+	}
